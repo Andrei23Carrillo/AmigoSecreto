@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AmigoSecreto</string>
+    <string name="amigos_separados_por_coma">Amigos separados por coma</string>
+    <string name="todo">TODO</string>
+    <string name="agregar">Agregar</string>
+    <string name="crear_lista">Crear Lista</string>
+    <string name="nombre">nombre</string>
+</resources>
